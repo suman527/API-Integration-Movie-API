@@ -9,7 +9,7 @@ View movie details
 Installation
 Clone the repository:
 
-git clone https://filmpire-app.netlify.app/
+git clone https://shagun-movieplex.netlify.app/
 Navigate to the project directory:
 
 bash Copy code cd movie-app Install dependencies:
