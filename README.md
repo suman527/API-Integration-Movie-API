@@ -19,8 +19,10 @@ A simple movie app built with React.js that allows users to browse and search fo
 6. Bookmark Movies: users can bookmark their favorite movies for later viewing
 7. Google Authentication: users can sign in using their Google account
 
-...
-Installation
+
+
+
+# Installation
 Clone the repository:
 
 git clone https://shagun-movieplex.netlify.app/
