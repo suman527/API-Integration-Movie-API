@@ -4,7 +4,7 @@ A simple movie app built with React.js that allows users to browse and search fo
 # Introduction
 1. Movieplex is an online database of information related to movies. Users can search for movies and learn about movies, as well as the cast of the movie. Navigating through the application is made simple with the help of an AI voice chatbot.  Movieplex also provides ratings of movies.
 
-2. Filmpire combines the desire to unleash powerful creativity with the industry's most advanced JavaScript tools including React.js, Redux, Material UI, Alan AI, and more.
+2. Movieplex combines the desire to unleash powerful creativity with the industry's most advanced JavaScript tools including React.js, Redux, Material UI, Alan AI, and more.
 
 3. This application includes user authentication, dark mode, sorting movies based on categories or genres, viewing movie and actor details, adding a movie to favorites or watchlists, and many more functionalities.
 
